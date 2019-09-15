@@ -1,2 +1,1 @@
-# Genetic-Binary-Image-Compression-CAC
-# Genetic-Binary-Image-Compression-CAC
+# Genetic algorithm used in binary image compression
